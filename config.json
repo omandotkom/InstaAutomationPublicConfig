@@ -1,6 +1,6 @@
 {
-	"Like": {
-		"interval": 22,
-		"variabel": "core"
-	}
+"Like" : {
+"interval" : "15,13,25,20,18",
+"variabel" : "core"
+}
 }
